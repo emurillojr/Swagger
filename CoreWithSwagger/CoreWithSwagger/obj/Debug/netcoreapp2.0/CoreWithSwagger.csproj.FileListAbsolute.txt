@@ -1,0 +1,12 @@
+C:\Users\murilloe\Desktop\Git\CoreWithSwagger\CoreWithSwagger\bin\Debug\netcoreapp2.0\CoreWithSwagger.deps.json
+C:\Users\murilloe\Desktop\Git\CoreWithSwagger\CoreWithSwagger\bin\Debug\netcoreapp2.0\CoreWithSwagger.runtimeconfig.json
+C:\Users\murilloe\Desktop\Git\CoreWithSwagger\CoreWithSwagger\bin\Debug\netcoreapp2.0\CoreWithSwagger.runtimeconfig.dev.json
+C:\Users\murilloe\Desktop\Git\CoreWithSwagger\CoreWithSwagger\bin\Debug\netcoreapp2.0\CoreWithSwagger.dll
+C:\Users\murilloe\Desktop\Git\CoreWithSwagger\CoreWithSwagger\obj\Debug\netcoreapp2.0\CoreWithSwagger.csprojResolveAssemblyReference.cache
+C:\Users\murilloe\Desktop\Git\CoreWithSwagger\CoreWithSwagger\obj\Debug\netcoreapp2.0\CoreWithSwagger.csproj.CoreCompileInputs.cache
+C:\Users\murilloe\Desktop\Git\CoreWithSwagger\CoreWithSwagger\obj\Debug\netcoreapp2.0\CoreWithSwagger.AssemblyInfoInputs.cache
+C:\Users\murilloe\Desktop\Git\CoreWithSwagger\CoreWithSwagger\obj\Debug\netcoreapp2.0\CoreWithSwagger.AssemblyInfo.cs
+C:\Users\murilloe\Desktop\Git\CoreWithSwagger\CoreWithSwagger\bin\Debug\netcoreapp2.0\CoreWithSwagger.pdb
+C:\Users\murilloe\Desktop\Git\CoreWithSwagger\CoreWithSwagger\obj\Debug\netcoreapp2.0\CoreWithSwagger.dll
+C:\Users\murilloe\Desktop\Git\CoreWithSwagger\CoreWithSwagger\obj\Debug\netcoreapp2.0\CoreWithSwagger.pdb
+C:\Users\murilloe\Desktop\Git\CoreWithSwagger\CoreWithSwagger\bin\Debug\netcoreapp2.0\CoreWithSwagger.xml

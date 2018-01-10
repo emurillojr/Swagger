@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CoreWithSwagger</name>
+    </assembly>
+    <members>
+        <member name="M:CoreWithSwagger.Controllers.ValuesController.Get">
+            <summary>
+            This list all the details
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CoreWithSwagger.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            This will provide details for specific ID which is being passed
+            </summary>
+            <param name="id"> Manditory</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
